@@ -1,5 +1,5 @@
 {
-	"name": "fe-maffezzolli/cfm-soap-symfony-bundle",
+	"name": "cm2tech/cfm-soap-symfony-bundle",
 	"type": "symfony-bundle",
 	"description": "Integration of cfm/soap with Symfony",
 	"keywords": [
