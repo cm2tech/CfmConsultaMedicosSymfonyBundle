@@ -7,7 +7,7 @@ use Cfm\SoapSymfonyBundle\Request\CfmSoapClient;
 
 class DoctorDataRequest
 {
-    public static function Consultar(DoctorData $doctorData, String $key): Array
+    public static function Consultar(DoctorData $doctorData, String $key)
     {
         $cfmSoap = new CfmSoapClient();
         $cfmSoap->createClient();
